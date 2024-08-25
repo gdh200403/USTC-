@@ -58,7 +58,7 @@ pip install os re pandas openpyxl
    ```
 
 3. **运行脚本**
-   - 将tool.py必须与data目录**同级**
+   - tool.py必须与data目录**同级**
    - 在`tool.py`脚本的所在目录打开命令行或终端。
    - 运行以下命令：
    ```sh
